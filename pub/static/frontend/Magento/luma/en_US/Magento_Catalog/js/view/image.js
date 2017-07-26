@@ -1,0 +1,1 @@
+C:/xampp/htdocs/brooklynfashion/vendor/magento/module-catalog/view/frontend/web/js/view/image.js

@@ -1,0 +1,1 @@
+C:/xampp/htdocs/brooklynfashion/lib/web/mage/backend/tabs.js

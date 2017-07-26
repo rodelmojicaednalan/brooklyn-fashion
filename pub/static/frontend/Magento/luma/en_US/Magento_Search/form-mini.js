@@ -1,0 +1,1 @@
+C:/xampp/htdocs/brooklynfashion/vendor/magento/module-search/view/frontend/web/form-mini.js
